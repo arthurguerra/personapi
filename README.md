@@ -1,5 +1,6 @@
-<h1>Digital Innovation One: Expert class</h1>
-<h2>Sistema de gerenciamento de pessoas em API REST com Spring Boot</h2>
+<h1>Sistema de gerenciamento de pessoas em API REST com Spring Boot</h1>
+<h2>Digital Innovation One: Expert class</h2>
+
 
 Nesta live coding foi desenvolvido um pequeno sistema para o gerenciamento de pessoas através de uma API REST, criada com o Spring Boot.
 
